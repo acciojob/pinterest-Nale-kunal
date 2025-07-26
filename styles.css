@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+img {
+  width: 50%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.hero{
+	display:flex;
+	text-align:center;
+	gap:30px;
+	font-size:10px;
+	justify-content:space-evenly;
+	align-items:center;
+	
+}
+.text{
+	width:25%;
+	
+}
